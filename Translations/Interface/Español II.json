@@ -3,10 +3,10 @@
   "LanguageName": "Español",
   "Translation": {
     "$type": "System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.String, mscorlib]], mscorlib",
-    "%AUTOSTART%": "Autoiniciar",
+    "%AUTOSTART%": "Iniciar automáticamente",
     "%AUTO_TUTORIAL%": "Completar el tutorial automáticamente con el siguiente nombre:",
     "%USE_PROXY%": "Usar Proxy",
-    "%EVOLVE_ALL_POKE_ABOVE_IV%": "Evolucionar todo pokemon sobre IV",
+    "%EVOLVE_ALL_POKE_ABOVE_IV%": "Evolucionar todo pokemon con un IV mínimo",
     "%EVOLVE_ALL_POKE_WITH_ENOUGH_CANDY%": "Evolucionar todo pokemon con caramelos suficientes",
     "%TRANSFER_DUPLICATE_POKE%": "Transferir pokemon repetidos exactos",
     "%KEEP_POKE_THAT_CAN_EVOLVE%": "Mantener pokemon que se pueden evolucionar",
